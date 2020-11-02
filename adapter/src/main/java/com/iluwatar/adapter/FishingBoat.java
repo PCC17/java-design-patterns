@@ -1,4 +1,4 @@
-/*
+﻿/*
  * The MIT License
  * Copyright © 2014-2019 Ilkka Seppälä
  *
@@ -26,7 +26,7 @@ package com.iluwatar.adapter;
 import static org.slf4j.LoggerFactory.getLogger;
 
 import org.slf4j.Logger;
-
+//boat
 /**
  * Device class (adaptee in the pattern). We want to reuse this class. Fishing boat moves by
  * sailing.
