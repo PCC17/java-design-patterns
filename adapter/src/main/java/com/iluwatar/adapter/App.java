@@ -52,6 +52,9 @@ public final class App {
    *
    * @param args command line args
    */
+   
+   // Branch Commit während eines SparseCheckouts
+   
   public static void main(final String[] args) {
     // The captain can only operate rowing boats but with adapter he is able to
     // use fishing boats as well
